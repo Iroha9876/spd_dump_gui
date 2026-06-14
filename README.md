@@ -6,10 +6,9 @@ A lightweight, powerful graphical user interface (GUI) wrapper for the `spd_dump
 
 ## 📌 Overview
 * **Version:** V0.1.0 Alpha (20260614)
-* **Author:** Iroha9876 (a.k.a. 4NotFound / 4NF)
-* **Target OS:** Windows (x86/x64)
-* **License:** Free of charge (Reselling strictly prohibited)
-
+* **Author:** Iroha9876 (a.k.a. 4NF)
+* **Target OS:** Windows 7 SP1+
+* **License:** GPLv3
 ---
 
 ## ✨ Features
